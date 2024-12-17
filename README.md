@@ -1,4 +1,4 @@
-# Melanoma Skin Cancer Detection
+# Melanoma Detection Assignment
 
 ## Abstract
 
