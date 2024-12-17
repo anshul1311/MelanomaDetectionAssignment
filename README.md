@@ -30,7 +30,7 @@ In order to address the challenge of class imbalance, the Augmentor Python packa
 
 ## Pictorial representation of skin types
 
-![skincancertypes](./skin_cancer_types.png)
+![skincancertypes](./pictorialrep.png)
 
 The aim of this task is to assign a specific class label to a particular type of skin cancer.
 
@@ -60,11 +60,11 @@ The break down of the final provided CNN architecture step by step:
 
 ## Model Summary
 
-![Model Architecture](./model_summary.png)
+![Model Architecture](./modelsummary.png)
 
 ## Model Evaluation
 
-![Model Evaluation](./model_evaluation.png)
+![Model Evaluation](./modelevaluation.png)
 
 ## Technologies Used
 
